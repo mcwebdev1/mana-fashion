@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2ugc2l89x9pmk.css","style"]
+:HL["/_next/static/chunks/1j7-rdrsgu8zi.css","style"]
 :HL["/_next/static/media/02b6a393c52b3e93-s.p.446k86v7_5u6o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/logo-mark.svg","image"]
@@ -15,4 +15,4 @@
 :HL["/social-instagram.svg","image"]
 :HL["/social-linkedin.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"r4SH8iwA0G_o_FvQCWmm1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UXNZh9hGHVzeMzbgm4sjT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
